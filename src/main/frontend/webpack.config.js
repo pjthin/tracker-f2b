@@ -26,9 +26,5 @@
         ]
       },
       plugins: [
-        new HtmlWebPackPlugin({
-          template: "./../resources/templates/index.html",
-          filename: "./../resources/templates/index.html"
-        })
       ]
     };
